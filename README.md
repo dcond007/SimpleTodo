@@ -20,23 +20,23 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Added a custom background and app theme.
+* [x] Edited the app theme.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1EUDdcg1nJZk-A_4Im3l9yhunW84dJYrz/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Kap](https://getkap.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Android Studio version 4.1 was used to build this application.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Daniel J. Condly]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
