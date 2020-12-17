@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
         btnAdd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               String todoItem = etItem.getText().toString();
+               String todoItem =  "• " + etItem.getText().toString();
                // Add item to the model
                 items.add(todoItem);
                 // Notify adapter that an item is inserted
