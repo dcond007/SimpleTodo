@@ -25,9 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bkxzBjl"  ><a href="//imgur.com/a/bkxzBjl">Todo App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src='https://i.imgur.com/k92nHcg.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/k92nHcg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co).
 
