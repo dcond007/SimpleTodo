@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href = "https://github.com/dcond007/SimpleTodo/blob/master/Simple-Walkthrough.gif"> Click Here To View App Demo </a>
-
+<img = "https://github.com/dcond007/SimpleTodo/blob/master/Simple-Walkthrough.gif">
 GIF created with [Kap](https://getkap.co).
 
 ## Notes
